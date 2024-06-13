@@ -1,7 +1,15 @@
 # Multiplayer Game
-This project was developed for the Online Multiplayer Games class.
+This project is a multiplayer online game developed in Unreal Engine 4.15, following a tutorial by John Galt. If this game is run while the Steam platform is open, it allows players to host and join a game online. This game includes two sets of weapons, a gun and a rifle, and as special features added by the participants of this project, there are different types of grenades and a thermal vision pickup. The grenades can be a slowing grenade, a flash grenade, or an explosive grenade randomly awarded.
 
-It is a First Person Shooter (FPS) game where two teams, red and blue, face off.
+## Conrtols
+
+- Movement: Use the W, A, S, D keys to move around.
+- Turning: Use the mouse to turn.
+- Sprint: Press the Left Shift key to sprint.
+- Jump: Press the Space bar to jump.
+- Fire Weapon: Right-click to fire the weapon.
+- Switch Weapons: Press the Q key to switch weapons.
+- Launch Grenade: Press the G key to launch a grenade.
 
 ## Key Features
 
