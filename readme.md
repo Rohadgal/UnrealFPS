@@ -15,10 +15,10 @@ This project is a multiplayer online game developed in Unreal Engine 4.15, follo
 
 - Allows a player to host a game for others to join.
 - Includes a hitscan-based assautl rifle and a projectile-based pistol.
-- Features an orb that allows players to see through walls with thermal vision. (@Rohadgal)
-- Stun grenade that affects all players within its range. (@Vuvaluu)
-- Damage grenade. (@SebastinIriberri)
-- Smoke grenade that slows down players when they are inside the smoke. (@lfeq)
+- Features an orb that allows players to see through walls with thermal vision. ([@Rohadgal](https://github.com/Rohadgal))
+- Stun grenade that affects all players within its range. ([@Vuvaluu](https://github.com/Vuvaluu))
+- Damage grenade. ([@SebastinIriberri](https://github.com/SebastinIriberri))
+- Smoke grenade that slows down players when they are inside the smoke. ([@lfeq](https://github.com/lfeq))
 
 ## Potential Improvements
 - The game may crash on some computers.
